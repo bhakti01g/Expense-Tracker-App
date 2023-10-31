@@ -3,6 +3,8 @@ Expense Tracker App for tracking income and expenses.
 
 Expense Tracker App is an Android application developed using Android Studio. It helps users track their expenses, manage budgets, and gain insights into their spending habits. This app provides a user-friendly interface for adding, categorizing, and analyzing expenses, making it easier for users to keep their finances in check.
 
+
+
 Features:
 Expense Management: Users can add, edit, and delete expenses.
 Income Data :Users can add, edit, and delete income .
@@ -11,17 +13,12 @@ Visual Analytics: View graphical representations of spending patterns to gain in
 
 To run the Expense Tracker App on your local machine, follow these steps:
 
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/expense-tracker-app.git
-Open in Android Studio:
-
-Open Android Studio.
+1)Clone the Repository:
+git clone (https://github.com/bhakti01g/Expense-Tracker-App.git)
+2)Open in Android Studio:
+3)Open Android Studio.
 Click on "Open an existing Android Studio project."
 Select the cloned directory and click "OK."
-Run on Emulator or Device:
-
+4)Run on Emulator or Device:
 Connect an Android device to your computer or create a virtual device using the Android Emulator.
 Click "Run" in Android Studio to install the app on the selected device.
